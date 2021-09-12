@@ -1,17 +1,2 @@
-.container {
-    position: relative;
-    width: 100%;
-    height: 0;
-    padding-bottom: 56.25%;
-}
-.video {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-}
 
-<div class="container">
-<iframe src="https://app.powerbi.com/reportEmbed?reportId=1ea94f54-0e53-427c-9e80-83eb30493c9d&autoAuth=true&ctid=889f1527-d836-4aa7-b318-23af01510d1b&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXdlc3QtZXVyb3BlLWUtcHJpbWFyeS1yZWRpcmVjdC5hbmFseXNpcy53aW5kb3dzLm5ldC8ifQ%3D%3D" frameborder="0" allowFullScreen="true"></iframe>
- </div>
+<iframe width="100%" height="100%"  src="https://app.powerbi.com/reportEmbed?reportId=1ea94f54-0e53-427c-9e80-83eb30493c9d&autoAuth=true&ctid=889f1527-d836-4aa7-b318-23af01510d1b&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXdlc3QtZXVyb3BlLWUtcHJpbWFyeS1yZWRpcmVjdC5hbmFseXNpcy53aW5kb3dzLm5ldC8ifQ%3D%3D" frameborder="0" allowFullScreen="true"></iframe>
